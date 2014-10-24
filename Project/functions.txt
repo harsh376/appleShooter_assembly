@@ -1,0 +1,11 @@
+functions-
+
+1. CLEAR_SCREEN : flushing the background
+
+2. PLOT_5X5_QUARE : plotting a 5by5 square
+	inputs r4: colour
+
+3. GET_PIXEL_ADDRESS : gets the VGA address for a give (x,y)
+
+4. INITIALIZE_TIMER : 
+	inputs : none
